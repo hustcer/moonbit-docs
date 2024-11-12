@@ -3,11 +3,9 @@ title: Moonbit Book
 author: Moonbit Team
 lang: en
 
-output: [html, epub, pdf]
+output: [epub]
 
-output.pdf: Moonbit-Book.pdf
 output.epub: Moonbit-Book.epub
-output.html: Moonbit-Book.html
 output.base_path: /Users/hustcer/iWork/github/open-books
 # list of chapters
 # Moonbt Book
