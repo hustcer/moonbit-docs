@@ -24,13 +24,13 @@ API token saved to ~/.moon/credentials.json
 
 Use `moon update` to update the mooncakes.io index.
 
-![moon update cli](imgs/moon-update.png)
+![moon update cli](docs/imgs/moon-update.png)
 
 ## Setup MoonBit project
 
 Open an existing project or create a new project via `moon new`:
 
-![moon new](imgs/moon-new.png)
+![moon new](docs/imgs/moon-new.png)
 
 ## Add dependencies
 
@@ -38,7 +38,7 @@ You can browse all available modules on mooncakes.io. Use `moon add` to add the 
 
 For example, to add the latest version of the `Yoorkin/example/list` module:
 
-![add deps](imgs/add-deps.png)
+![add deps](docs/imgs/add-deps.png)
 
 ## Import packages from module
 
@@ -46,7 +46,7 @@ Modify the configuration file `moon.pkg.json` and declare the packages that need
 
 For example, in the image below, the `hello/main/moon.pkg.json` file is modified to declare the import of `Yoorkin/example/list` in the `main` package. Now, you can call the functions of the third-party package in the `main` package using `@list`.
 
-![import package](imgs/import.png)
+![import package](docs/imgs/import.png)
 
 You can also give an alias to the imported package:
 
@@ -61,7 +61,7 @@ You can also give an alias to the imported package:
 
 Read the documentation of this module on mooncakes.io, we can use its `of_array` and `reverse` functions to implement a new function `reverse_array`.
 
-![reverse array](imgs/reverse-array.png)
+![reverse array](docs/imgs/reverse-array.png)
 
 ## Remove dependencies
 

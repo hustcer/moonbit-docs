@@ -333,4 +333,4 @@ python3 -m http.server 8080
 
 Goto [http://localhost:8080](http://localhost:8080) in your browser, there should be a smile face on the screen and an output on the console:
 
-![A smile face webpage with browser devtools open](./imgs/smile_face_with_log.png)
+![A smile face webpage with browser devtools open](./docs/imgs/smile_face_with_log.png)
