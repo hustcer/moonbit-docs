@@ -1,0 +1,42 @@
+# metadata
+title: Moonbit Book
+author: Moonbit Team
+lang: en
+
+output: [html, epub, pdf]
+
+output.pdf: Moonbit-Book.pdf
+output.epub: Moonbit-Book.epub
+output.html: Moonbit-Book.html
+output.base_path: /Users/hustcer/iWork/github/open-books
+# list of chapters
+# Moonbt Book
+
++ docs/README.md
++ docs/ffi-and-wasm-host.md
++ docs/package-manage-tour.md
++ docs/tour.md
++ docs/error-handling.md
+-- docs/examples/sudoku/index.md
+-- docs/examples/lambda.md
+-- docs/examples/gmachine-1/index.md
+-- docs/examples/gmachine-2.md
+-- docs/examples/gmachine-3.md
+-- docs/examples/myers-diff.md
+-- docs/examples/myers-diff2.md
+-- docs/examples/myers-diff3.md
+-- docs/examples/segment-tree/index.md
++ i18n/zh/docusaurus-plugin-content-docs/current/README.md
++ i18n/zh/docusaurus-plugin-content-docs/current/ffi-and-wasm-host.md
++ i18n/zh/docusaurus-plugin-content-docs/current/package-manage-tour.md
++ i18n/zh/docusaurus-plugin-content-docs/current/tour.md
++ i18n/zh/docusaurus-plugin-content-docs/current/error-handling.md
+-- i18n/zh/docusaurus-plugin-content-docs/current/examples/sudoku/index.md
+-- i18n/zh/docusaurus-plugin-content-docs/current/examples/lambda.md
+-- i18n/zh/docusaurus-plugin-content-docs/current/examples/gmachine-1/index.md
+-- i18n/zh/docusaurus-plugin-content-docs/current/examples/gmachine-2.md
+-- i18n/zh/docusaurus-plugin-content-docs/current/examples/gmachine-3.md
+-- i18n/zh/docusaurus-plugin-content-docs/current/examples/myers-diff.md
+-- i18n/zh/docusaurus-plugin-content-docs/current/examples/myers-diff2.md
+-- i18n/zh/docusaurus-plugin-content-docs/current/examples/myers-diff3.md
+-- i18n/zh/docusaurus-plugin-content-docs/current/examples/segment-tree/index.md
