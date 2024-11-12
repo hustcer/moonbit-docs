@@ -22,13 +22,13 @@ API token saved to ~/.moon/credentials.json
 
 使用`moon update`更新 mooncakes.io 索引。
 
-![moon update cli](imgs/moon-update.png)
+![moon update cli](i18n/zh/docusaurus-plugin-content-docs/current/imgs/moon-update.png)
 
 ## 创建工程
 
 打开一个已有的工程，或者通过 `moon new` 创建一个新的工程：
 
-![moon new](imgs/moon-new.png)
+![moon new](i18n/zh/docusaurus-plugin-content-docs/current/imgs/moon-new.png)
 
 ## 添加模块依赖
 
@@ -36,7 +36,7 @@ API token saved to ~/.moon/credentials.json
 
 例如添加`Yoorkin/example/list`这个模块的最新版本：
 
-![add deps](imgs/add-deps.png)
+![add deps](i18n/zh/docusaurus-plugin-content-docs/current/imgs/add-deps.png)
 
 ## 导入模块中的包
 
@@ -44,7 +44,7 @@ API token saved to ~/.moon/credentials.json
 
 例如下图修改了`hello/main/moon.pkg.json`：在`import`字段声明需要将`Yoorkin/example/list`导入到`main`包。此时在`main`包内即可通过`@list`调用第三方包的函数。
 
-![import package](imgs/import.png)
+![import package](i18n/zh/docusaurus-plugin-content-docs/current/imgs/import.png)
 
 也可以给导入的包取一个别名：
 
@@ -59,7 +59,7 @@ API token saved to ~/.moon/credentials.json
 
 参考 mooncakes.io 上这个模块的文档，我们借助它提供的`of_array`和`reverse`函数反转并打印一个 array。
 
-![reverse array](imgs/reverse-array.png)
+![reverse array](i18n/zh/docusaurus-plugin-content-docs/current/imgs/reverse-array.png)
 
 ## 移除依赖的模块
 

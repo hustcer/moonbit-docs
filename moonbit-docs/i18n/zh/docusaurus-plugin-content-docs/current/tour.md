@@ -16,7 +16,7 @@
 ### 工具链
 
 > （推荐方式）若您已安装了上述插件，可以通过 action menu 中的 'Install moonbit toolchain' 下载工具链并跳过这部分介绍。
-> ![runtime-installation](./imgs/runtime-installation.png)
+> ![runtime-installation](./i18n/zh/docusaurus-plugin-content-docs/current/imgs/runtime-installation.png)
 
 除去插件支持外，我们还提供一键安装脚本：Linux 和 macOS 用户可以通过以下命令安装
 

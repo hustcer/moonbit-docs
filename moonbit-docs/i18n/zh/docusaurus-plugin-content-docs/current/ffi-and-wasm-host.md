@@ -333,4 +333,4 @@ python3 -m http.server 8080
 
 在浏览器中打开 [http://localhost:8080](http://localhost:8080) 后，应该可以看到屏幕上的一个笑脸以及控制台的输出：
 
-![A smile face webpage with browser devtools open](./imgs/smile_face_with_log.png)
+![A smile face webpage with browser devtools open](./i18n/zh/docusaurus-plugin-content-docs/current/imgs/smile_face_with_log.png)
